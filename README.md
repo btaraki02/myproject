@@ -1,4 +1,7 @@
 # myproject
 this is test repo
 this repo created by Bilal Taraki
-ft_poutchar;
+int main(void){
+printf("HI!");
+return 0;
+}
